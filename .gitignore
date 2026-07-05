@@ -36,3 +36,4 @@ out/
 
 # Ignore Maven/Gradle build output
 target/
+.DS_Store
